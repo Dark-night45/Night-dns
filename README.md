@@ -8,7 +8,6 @@ A dns changer with list of popular dns.
 <br> 
 <img alt="Preview" src="https://cdn.discordapp.com/attachments/830539152797859902/1084063206995152986/preview.png">
 </details>
-<br>
 
 ### Important
 This app need Microsoft.NETCore.App v6.0.

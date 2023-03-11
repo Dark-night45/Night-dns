@@ -1,6 +1,6 @@
 ## Night dns
 A dns changer with list of popular dns.
-⭐ You can support me by star this repository or buy me a coffee
+⭐ You can support me by star this repository or [Buy me a coffee (Rial)](coffeebede.com/dark_night45)
 
 **Preview :**
 <details close>

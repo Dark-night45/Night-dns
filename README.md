@@ -18,3 +18,5 @@ Just go to Releases and choose last version, then download the "_Source code (zi
 
 ### Platform :
 Windows 64x (64bit) / 86x (32bit)
+
+If you found any issuse or bug, you can send it in [My discord server](https://discord.gg/wpWHUXUktm)

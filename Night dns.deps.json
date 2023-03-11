@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Night dns/1.0.0": {
+      "Night dns/1.1.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Management": "7.0.0"
@@ -53,7 +53,7 @@
     }
   },
   "libraries": {
-    "Night dns/1.0.0": {
+    "Night dns/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

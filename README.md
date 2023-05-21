@@ -1,12 +1,12 @@
 ## Night dns
 A dns changer with list of popular dns.
-⭐ You can support me by star this repository or [Buy me a coffee (Rial)](https://coffeebede.com/dark_night45)
+⭐ You can support me by star this repository or [Buy me a coffee (Rial)](coffeebede.com/dark_night45)
 
 **Preview :**
 <details close>
 <summary>View the preview</summary>
 <br> 
-<img alt="Preview" src="https://cdn.discordapp.com/attachments/830539152797859902/1084063206995152986/preview.png">
+<img alt="Preview" src="https://cdn.discordapp.com/attachments/830539152797859902/1109804319018078208/preview.png">
 </details>
 
 ### Important
